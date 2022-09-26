@@ -1,0 +1,7 @@
+Three layered unidirectional orthotropic laminate is designed in MATLAB. Stress and Strain distributions are invastigated under loading condition.
+Tsai-Wu and Hill failure criterias are used to determine first-ply failure.
+
+Laminate.m file is main file
+Qij is transformed stiffness matrix function
+T is transformation function.
+Stiff is stiffness matrix function include extension and sher coupling
